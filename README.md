@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manthan-Vyas
 - 👀 I’m interested in Web Developmennt, Automation, Linux.
-- 🌱 I’m currently learning Java in advance 
+- 🌱 I’m currently learning Kotlin and Android
 - //💞️ I’m looking to collaborate on ...
 - //📫 How to reach me ...
 
